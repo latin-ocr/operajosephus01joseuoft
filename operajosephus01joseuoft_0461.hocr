@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operajosephus01joseuoft_0461.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2511 0 2640 963">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2511 0 2640 963">
+     <span class='ocr_line' id='line_1_1' title="bbox 2511 0 2640 963; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2580 908 2640 963; x_wconf 49' lang='grc' dir='ltr'><strong>ὃ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2570 799 2638 859; x_wconf 60' lang='lat'><strong>121</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2567 695 2627 753; x_wconf 65' lang='grc' dir='ltr'><strong>ιι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2550 590 2620 649; x_wconf 56' lang='grc' dir='ltr'><strong><em>ἒ</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2550 478 2618 548; x_wconf 59' lang='lat'><strong>*2</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2511 0 2613 440; x_wconf 49' lang='lat' dir='ltr'><strong>ffl.².,§›·1.2&#39;÷ss‘.fff¹‘</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2587 0 2723 808">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2587 0 2723 808">
+     <span class='ocr_line' id='line_1_2' title="bbox 2587 0 2723 808; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 2642 740 2719 808; x_wconf 49' lang='grc' dir='ltr'><strong>με</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2627 644 2723 702; x_wconf 15' lang='grc' dir='ltr'><strong>,ὃ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2611 435 2715 596; x_wconf 50' lang='lat'><strong>3423*</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2612 303 2704 386; x_wconf 49' lang='grc' dir='ltr'>ᾗ</span> <span class='ocrx_word' id='word_1_11' title='bbox 2587 0 2692 276; x_wconf 43' lang='grc' dir='ltr'><strong>Ϋψφ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2655 382 2737 438">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2655 382 2737 438">
+     <span class='ocr_line' id='line_1_3' title="bbox 2655 382 2678 434; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 2655 418 2678 434; x_wconf 58' lang='lat'><strong>¹,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2668 382 2670 388; x_wconf 33' lang='lat'><strong><em>⁴</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2690 383 2702 418; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 2690 383 2702 418; x_wconf 44' lang='grc' dir='ltr'><strong>,υ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 2709 429 2737 438; textangle 90"><span class='ocrx_word' id='word_1_15' title='bbox 2709 429 2737 438; x_wconf 75' lang='lat'><strong>0&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2912 4368">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2912 4368; textangle 90"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2912 4368; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

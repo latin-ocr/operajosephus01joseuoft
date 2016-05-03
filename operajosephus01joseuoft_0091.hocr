@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operajosephus01joseuoft_0091.png"; bbox 0 0 2060 3475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 638 1307 1235 1371">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 638 1307 1235 1371">
+     <span class='ocr_line' id='line_1_1' title="bbox 638 1307 1235 1371; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 638 1307 894 1370; x_wconf 75' lang='lat' dir='ltr'><strong>FLAVH</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 941 1307 1235 1371; x_wconf 84' lang='lat' dir='ltr'>IOSEPHI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 1524 1736 1609">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 1524 1736 1609">
+     <span class='ocr_line' id='line_1_2' title="bbox 137 1524 1736 1609; baseline 0.002 -8"><span class='ocrx_word' id='word_1_3' title='bbox 137 1524 965 1609; x_wconf 72' lang='lat' dir='ltr'><strong>ANTIQVITATVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1035 1527 1736 1605; x_wconf 73' lang='lat' dir='ltr'><strong>IVDAICARVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 776 1746 1090 1789">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 776 1746 1090 1789">
+     <span class='ocr_line' id='line_1_3' title="bbox 776 1746 1090 1789; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 776 1746 929 1788; x_wconf 92' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 959 1747 1090 1789; x_wconf 84' lang='lat' dir='ltr'>I—V.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 181 3031 357 3065">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 181 3031 357 3065">
+     <span class='ocr_line' id='line_1_4' title="bbox 181 3031 357 3065; baseline 0.006 -8"><span class='ocrx_word' id='word_1_7' title='bbox 181 3031 357 3065; x_wconf 27' lang='lat' dir='ltr'><strong>JJJJJJJJJJ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
